@@ -1,0 +1,6 @@
+@PageWhisphers_HostAddress = http://localhost:5232
+
+GET {{PageWhisphers_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
